@@ -10,9 +10,10 @@ public class Test01 {
     }
 
     public static void main(String[] argvs) {
-        System.out.println("Hello Git World !");
+        System.out.println("Hello Git World !--ori");
         System.out.println("** Date: " + getDate());
     }
+
 }
 
 
