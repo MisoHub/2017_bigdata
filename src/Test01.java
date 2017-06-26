@@ -14,6 +14,12 @@ public class Test01 {
         System.out.println("** Date: " + getDate());
     }
 
+<<<<<<< HEAD
+=======
+    public void branch_test01(){
+        System.out.println("branch changed");
+    }
+>>>>>>> test
 }
 
 
